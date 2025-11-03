@@ -1,0 +1,11 @@
+@layer theme {
+  :root {
+    @variant light {
+      --color-themevariant: green;
+    }
+
+    @variant dark {
+      --color-themevariant: darkgreen;
+    }
+  }
+}

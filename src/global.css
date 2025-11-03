@@ -1,14 +1,17 @@
 @import "tailwindcss";
 @import "uniwind";
 
+@import "./theme-variant.css";
+@import "./theme-directive.css";
+
 @layer theme {
   :root {
     @variant light {
-      --color-foo: oklch(0.3971 0.1381 337);
+      --color-global: red;
     }
 
     @variant dark {
-      --color-foo: oklch(0.7 0.1 337);
+      --color-global: darkred;
     }
   }
 }
