@@ -14,7 +14,7 @@
     "react": "19.1.0",
     "react-native": "0.81.5",
     "tailwindcss": "^4.1.16",
-    "uniwind": "^1.0.0-rc.7"
+    "uniwind": "1.0.0-nightly.20251030.1"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
