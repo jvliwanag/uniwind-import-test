@@ -1,0 +1,15 @@
+@theme {
+  --color-mythemefixed: brown;
+}
+
+@layer theme {
+  :root {
+    @variant light {
+      --color-mythemevariant: orange;
+    }
+
+    @variant dark {
+      --color-mythemevariant: darkorange;
+    }
+  }
+}

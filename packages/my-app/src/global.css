@@ -3,6 +3,7 @@
 
 @import "./theme-variant.css";
 @import "./theme-directive.css";
+@import "my-theme/my-theme.css";
 
 @layer theme {
   :root {

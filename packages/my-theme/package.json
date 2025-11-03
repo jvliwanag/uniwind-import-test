@@ -1,0 +1,7 @@
+{
+  "name": "my-theme",
+  "type": "module",
+  "exports": {
+    "./my-theme.css": "./my-theme.css"
+  }
+}
